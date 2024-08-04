@@ -2,6 +2,7 @@
 (require 'treemacs)
 (require 'treemacs-treelib)
 (require 'treemacs-rendering)
+(require 'TreemacsExt)
 ;; (require 'w3m)
 (require 'eww)
 (require 'dired)
